@@ -1,0 +1,227 @@
+id,date_admit,date_outcome,outcome,age,sex,site,referred,dehydrated,tx_plan_appropriate
+1,12/21/2022,12/23/2022,Dead,40,NA,Mama Lucy Kibaki Hospital,NA,severe,NA
+2,4/1/2023,4/2/2023,Alive,3,NA,Mama Lucy Kibaki Hospital,NA,severe,NA
+3,12/15/2022,12/20/2022,Dead,27,NA,Mama Lucy Kibaki Hospital,Yes,moderate,NA
+4,5/5/2023,5/7/2023,Alive,42,NA,Mama Lucy Kibaki Hospital,Yes,severe,NA
+5,12/18/2022,12/18/2022,Dead,NA,NA,Mama Lucy Kibaki Hospital,No,severe,NA
+6,11/22/2022,11/24/2022,Alive,3,NA,Mbagathi Hospital,Yes,no/mild,NA
+7,6/9/2023,6/11/2022,Alive,NA,NA,Mama Lucy Kibaki Hospital,No,severe,NA
+8,11/29/2022,12/5/2022,Alive,10,NA,Mbagathi Hospital,Yes,severe,NA
+9,11/22/2022,11/25/2022,Alive,3,NA,Mbagathi Hospital,Yes,severe,NA
+10,11/12/2022,11/16/2022,Alive,47,Male,Mbagathi Hospital,Yes,severe,Yes
+11,11/10/2022,11/15/2022,Alive,57,Male,Mbagathi Hospital,Yes,severe,Yes
+12,12/22/2022,12/22/2022,Dead,32,Male,Mama Lucy Kibaki Hospital,Yes,moderate,No
+13,5/1/2023,5/3/2023,Alive,42,Male,Mama Lucy Kibaki Hospital,Yes,no/mild,No
+14,5/2/2023,5/2/2023,Alive,29,Male,Mama Lucy Kibaki Hospital,No,moderate,No
+15,10/27/2022,10/31/2022,Alive,30,Female,Mbagathi Hospital,No,severe,Yes
+16,11/13/2022,11/16/2022,Alive,31,Female,Mbagathi Hospital,Yes,severe,No
+17,11/4/2022,11/11/2022,Alive,51,Male,Mbagathi Hospital,No,moderate,No
+18,11/11/2022,11/16/2022,Alive,45,Male,Mbagathi Hospital,No,severe,No
+19,11/13/2022,11/21/2022,Alive,36,Male,Mbagathi Hospital,No,moderate,No
+20,11/22/2022,11/26/2022,Alive,9,Male,Mbagathi Hospital,Yes,NA,Yes
+21,11/12/2022,11/16/2022,Alive,40,Female,Mbagathi Hospital,No,severe,No
+22,11/16/2022,11/18/2022,Alive,32,Female,Mbagathi Hospital,Yes,no/mild,No
+23,11/1/2022,11/6/2022,Alive,33,Male,Mbagathi Hospital,No,severe,No
+24,11/16/2022,11/18/2022,Alive,35,Female,Mbagathi Hospital,Yes,no/mild,No
+25,5/17/2023,5/20/2023,Alive,19,Male,Mama Lucy Kibaki Hospital,No,moderate,No
+26,11/8/2022,11/12/2022,Alive,5,Male,Mbagathi Hospital,Yes,severe,Yes
+27,10/21/2022,10/23/2022,Alive,42,Male,Mbagathi Hospital,Yes,moderate,Yes
+28,11/12/2022,11/16/2022,Alive,38,Male,Mbagathi Hospital,Yes,severe,Yes
+29,10/27/2022,10/31/2022,Alive,40,Female,Mbagathi Hospital,Yes,NA,Yes
+30,12/21/2022,12/23/2022,Dead,40,Female,Mama Lucy Kibaki Hospital,No,NA,No
+31,4/1/2023,4/3/2023,Alive,3,Female,Mama Lucy Kibaki Hospital,No,no/mild,Yes
+32,1/11/2023,1/12/2023,Alive,8,Female,Mama Lucy Kibaki Hospital,No,no/mild,Yes
+33,12/18/2022,12/18/2022,Dead,NA,Male,Mama Lucy Kibaki Hospital,No,severe,No
+34,5/2/2023,5/7/2023,Alive,NA,Female,Mama Lucy Kibaki Hospital,No,moderate,Yes
+35,5/17/2023,5/18/2023,Alive,NA,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+36,4/21/2023,4/22/2023,Alive,30,Male,Mama Lucy Kibaki Hospital,No,NA,Yes
+37,12/15/2022,12/20/2022,Dead,27,Female,Mama Lucy Kibaki Hospital,Yes,moderate,No
+38,5/5/2023,5/7/2023,Alive,42,Male,Mama Lucy Kibaki Hospital,Yes,moderate,Yes
+39,4/24/2023,4/27/2023,Alive,30,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+40,12/17/2022,12/20/2022,Dead,7,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+41,6/9/2023,6/11/2023,Alive,26,Male,Mama Lucy Kibaki Hospital,No,moderate,Yes
+42,2/14/2023,2/14/2023,Dead,62,Male,Mama Lucy Kibaki Hospital,No,moderate,Yes
+43,12/14/2022,12/14/2022,Dead,40,Male,Mama Lucy Kibaki Hospital,No,moderate,No
+44,11/19/2022,11/23/2022,Alive,34,Male,Mbagathi Hospital,No,moderate,No
+45,10/24/2022,10/30/2022,Alive,24,Female,Mbagathi Hospital,No,NA,No
+46,11/16/2022,11/22/2022,Alive,60,Male,Mbagathi Hospital,No,moderate,No
+47,11/29/2022,11/30/2022,Dead,28,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+48,12/25/2022,12/28/2022,Alive,60,Female,Mbagathi Hospital,Yes,NA,No
+49,3/27/2023,3/27/2023,Dead,54,Male,Mbagathi Hospital,No,NA,No
+50,8/24/2023,8/24/2023,Dead,33,Male,Mama Lucy Kibaki Hospital,No,moderate,Yes
+51,12/25/2022,12/27/2022,Alive,43,Male,Mbagathi Hospital,No,moderate,Yes
+52,2/26/2023,2/27/2023,Dead,45,Male,Mama Lucy Kibaki Hospital,No,no/mild,Yes
+53,4/2/2023,4/3/2023,Dead,55,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+54,10/25/2022,10/29/2022,Alive,64,Male,Mbagathi Hospital,Yes,moderate,Yes
+55,12/9/2022,12/9/2022,Dead,45,Male,Mama Lucy Kibaki Hospital,Yes,NA,Yes
+56,12/10/2022,12/14/2022,Dead,20,Male,Mama Lucy Kibaki Hospital,Yes,severe,No
+57,3/29/2023,3/30/2023,Dead,38,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+58,4/26/2023,4/28/2023,Alive,70,Female,Mama Lucy Kibaki Hospital,No,severe,Yes
+59,4/8/2023,4/10/2023,Dead,42,Female,Mbagathi Hospital,No,severe,Yes
+60,12/29/2022,1/7/2023,Dead,39,Female,Mama Lucy Kibaki Hospital,No,moderate,Yes
+61,4/4/2023,4/6/2023,Dead,53,Male,Mama Lucy Kibaki Hospital,Yes,moderate,Yes
+62,4/18/2023,4/20/2023,Alive,43,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+63,4/8/2023,4/8/2023,Dead,22,Female,Mbagathi Hospital,No,NA,No
+64,2/25/2023,2/25/2023,Dead,47,Male,Mbagathi Hospital,No,severe,Yes
+65,11/22/2022,11/25/2022,Alive,38,Male,Mbagathi Hospital,No,moderate,No
+66,2/23/2023,2/24/2023,Dead,53,Male,Mbagathi Hospital,No,severe,No
+67,2/25/2023,2/26/2023,Dead,39,Male,Mbagathi Hospital,No,severe,No
+68,3/4/2023,3/4/2023,Dead,79,Female,Mbagathi Hospital,No,severe,No
+69,12/26/2022,12/31/2022,Alive,47,Male,Mbagathi Hospital,Yes,moderate,Yes
+70,3/24/2023,NA,Dead,63,Male,Mbagathi Hospital,No,severe,No
+71,11/20/2022,11/22/2022,Alive,51,Female,Mbagathi Hospital,Yes,NA,No
+72,4/9/2023,4/10/2022,Dead,58,Male,Mbagathi Hospital,Yes,moderate,No
+73,3/3/2023,4/3/2023,Dead,6,Male,Mbagathi Hospital,No,severe,No
+74,8/18/2023,5/21/2023,Alive,32,Male,Mama Lucy Kibaki Hospital,Yes,moderate,Yes
+75,4/11/2023,4/12/2023,Dead,3,Male,Mbagathi Hospital,No,severe,No
+76,12/22/2022,12/23/2022,Dead,27,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+77,2/3/2023,2/7/2023,Dead,39,Male,Mama Lucy Kibaki Hospital,Yes,severe,Yes
+78,3/6/2023,3/8/2023,Dead,NA,Male,Mama Lucy Kibaki Hospital,No,NA,Yes
+79,4/4/2023,5/5/2023,Alive,48,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+80,3/24/2023,3/24/2023,Dead,35,Female,Mbagathi Hospital,No,severe,No
+81,3/10/2023,3/12/2023,Dead,1,Female,Mbagathi Hospital,No,severe,Yes
+82,3/21/2023,3/24/2023,Dead,76,Male,Mbagathi Hospital,Yes,severe,No
+83,2/1/2023,2/3/2023,Alive,37,Female,Mama Lucy Kibaki Hospital,No,moderate,Yes
+84,2/10/2023,4/12/2023,Alive,45,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+85,3/1/2023,3/1/2023,Dead,25,Male,Mbagathi Hospital,No,severe,Yes
+86,3/8/2023,3/8/2023,Dead,26,Female,Mbagathi Hospital,Yes,severe,Yes
+87,2/23/2023,2/25/2023,Alive,33,Male,Mama Lucy Kibaki Hospital,Yes,severe,Yes
+88,3/27/2023,4/11/2023,Dead,52,Male,Mbagathi Hospital,No,moderate,No
+89,2/10/2023,2/12/2023,Dead,36,Female,Mbagathi Hospital,No,NA,No
+90,3/1/2023,3/3/2023,Dead,38,Male,Mbagathi Hospital,No,severe,No
+91,3/19/2023,NA,Dead,32,Female,Mbagathi Hospital,No,moderate,Yes
+92,2/2/2023,2/6/2023,Alive,29,Male,Mama Lucy Kibaki Hospital,Yes,severe,Yes
+93,3/8/2023,3/8/2023,Dead,26,Female,Mbagathi Hospital,Yes,severe,No
+94,12/18/2022,12/21/2022,Alive,43,Female,Mama Lucy Kibaki Hospital,Yes,moderate,Yes
+95,3/9/2023,3/24/2023,Dead,42,Male,Mbagathi Hospital,Yes,NA,No
+96,12/27/2022,12/28/2022,Alive,7,Male,Mama Lucy Kibaki Hospital,No,NA,Yes
+97,1/10/2023,1/11/2023,Alive,25,Female,Mbagathi Hospital,No,severe,Yes
+98,3/1/2023,3/3/2023,Dead,38,Male,Mbagathi Hospital,Yes,moderate,No
+99,11/24/2022,11/26/2022,Alive,NA,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+100,11/24/2022,11/25/2022,Alive,38,Female,Mama Lucy Kibaki Hospital,No,moderate,Yes
+101,12/4/2022,12/6/2022,Alive,NA,Male,Mama Lucy Kibaki Hospital,No,NA,No
+102,12/22/2022,12/26/2022,Alive,75,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+103,12/12/2022,12/16/2022,Alive,60,Male,Mama Lucy Kibaki Hospital,No,moderate,Yes
+104,12/13/2022,12/16/2022,Alive,40,Male,Mama Lucy Kibaki Hospital,Yes,severe,Yes
+105,11/29/2022,12/3/2022,Alive,32,Male,Mama Lucy Kibaki Hospital,Yes,moderate,Yes
+106,1/19/2023,2/1/2023,Alive,48,Male,Mama Lucy Kibaki Hospital,No,moderate,Yes
+107,12/4/2022,12/8/2022,Alive,20,Male,Mama Lucy Kibaki Hospital,Yes,severe,Yes
+108,6/9/2023,2/12/2023,Alive,37,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+109,12/4/2022,12/5/2022,Alive,28,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+110,3/6/2023,2/8/2023,Alive,55,Female,Mama Lucy Kibaki Hospital,Yes,no/mild,No
+111,2/20/2023,2/21/2023,Alive,23,Female,Mama Lucy Kibaki Hospital,Yes,severe,No
+112,12/4/2022,12/6/2022,Alive,62,Male,Mama Lucy Kibaki Hospital,No,NA,No
+113,12/19/2022,12/20/2022,Alive,4,Male,Mama Lucy Kibaki Hospital,Yes,severe,No
+114,11/19/2022,11/21/2022,Alive,38,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+115,12/23/2022,12/23/2022,Alive,40,Female,Mama Lucy Kibaki Hospital,Yes,NA,Yes
+116,11/22/2022,11/26/2022,Alive,50,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+117,11/24/2022,11/25/2022,Alive,38,Female,Mama Lucy Kibaki Hospital,No,moderate,Yes
+118,3/6/2023,3/11/2023,Alive,51,Male,Mbagathi Hospital,No,severe,No
+119,3/6/2023,3/8/2023,Alive,54,Male,Mbagathi Hospital,No,severe,Yes
+120,2/2/2023,2/6/2023,Alive,54,Female,Mbagathi Hospital,Yes,NA,No
+121,2/15/2023,2/20/2023,Alive,0,Male,Mbagathi Hospital,No,severe,Yes
+122,2/12/2023,2/15/2023,Alive,50,Male,Mbagathi Hospital,No,severe,Yes
+123,2/3/2023,2/9/2023,Alive,22,Female,Mbagathi Hospital,Yes,severe,Yes
+124,3/15/2023,NA,Alive,7,Female,Mbagathi Hospital,Yes,severe,No
+125,3/5/2023,3/11/2023,Alive,52,Male,Mbagathi Hospital,No,severe,No
+126,2/17/2023,2/18/2023,Alive,50,Male,Mama Lucy Kibaki Hospital,Yes,severe,Yes
+127,12/27/2022,12/29/2022,Alive,26,Female,Mama Lucy Kibaki Hospital,No,NA,Yes
+128,11/27/2022,11/28/2022,Alive,22,Male,Mama Lucy Kibaki Hospital,No,moderate,No
+129,2/15/2023,2/20/2023,Alive,69,Female,Mbagathi Hospital,No,moderate,Yes
+130,3/6/2023,3/7/2023,Alive,21,Male,Mbagathi Hospital,No,severe,No
+131,3/6/2023,3/7/2023,Alive,27,Male,Mbagathi Hospital,No,severe,Yes
+132,3/6/2023,3/7/2023,Alive,20,Male,Mbagathi Hospital,Yes,no/mild,Yes
+133,3/6/2023,3/13/2023,Alive,25,Female,Mbagathi Hospital,Yes,severe,Yes
+134,3/7/2023,3/11/2023,Alive,12,Female,Mbagathi Hospital,No,severe,No
+135,3/1/2023,3/2/2023,Alive,20,Male,Mbagathi Hospital,Yes,severe,Yes
+136,2/19/2023,2/22/2023,Alive,36,Male,Mama Lucy Kibaki Hospital,No,moderate,Yes
+137,12/16/2022,12/18/2022,Alive,31,Male,Mama Lucy Kibaki Hospital,No,moderate,Yes
+138,12/18/2022,4/3/2022,Alive,25,Female,Mama Lucy Kibaki Hospital,No,moderate,No
+139,4/1/2023,4/4/2023,Alive,21,Female,Mbagathi Hospital,No,NA,No
+140,3/31/2023,4/2/2023,Alive,65,Male,Mbagathi Hospital,No,severe,Yes
+141,2/15/2023,2/19/2023,Alive,40,Female,Mama Lucy Kibaki Hospital,Yes,severe,Yes
+142,3/6/2023,3/9/2023,Alive,38,Male,Mbagathi Hospital,Yes,severe,Yes
+143,4/1/2023,4/2/2023,Alive,28,Female,Mbagathi Hospital,No,moderate,No
+144,4/1/2023,4/4/2023,Alive,64,Male,Mbagathi Hospital,No,no/mild,No
+145,4/7/2023,3/8/2023,Alive,33,Male,Mama Lucy Kibaki Hospital,No,no/mild,Yes
+146,2/16/2023,2/16/2023,Dead,48,Male,Mama Lucy Kibaki Hospital,No,NA,Yes
+147,4/1/2023,4/2/2023,Alive,22,Male,Mbagathi Hospital,No,moderate,Yes
+148,12/22/2022,12/24/2022,Alive,33,Male,Mama Lucy Kibaki Hospital,Yes,severe,Yes
+149,4/1/2023,4/4/2023,Alive,25,Male,Mbagathi Hospital,No,NA,No
+150,2/11/2023,2/12/2023,Alive,60,Male,Mama Lucy Kibaki Hospital,No,NA,Yes
+151,11/26/2022,11/28/2022,Alive,30,Male,Mama Lucy Kibaki Hospital,No,moderate,No
+152,12/7/2022,12/11/2022,Alive,22,Male,Mama Lucy Kibaki Hospital,Yes,severe,No
+153,3/31/2023,4/3/2023,Alive,22,Male,Mbagathi Hospital,No,severe,Yes
+154,2/26/2023,3/1/2023,Alive,47,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+155,12/12/2022,12/14/2022,Alive,23,Male,Mama Lucy Kibaki Hospital,Yes,moderate,No
+156,3/7/2023,3/9/2023,Alive,33,Male,Mama Lucy Kibaki Hospital,Yes,no/mild,Yes
+157,NA,NA,Alive,36,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+158,3/1/2023,4/5/2023,Alive,18,Female,Mbagathi Hospital,Yes,moderate,Yes
+159,12/24/2022,12/26/2022,Alive,25,Male,Mama Lucy Kibaki Hospital,No,moderate,Yes
+160,2/27/2023,3/3/2023,Alive,8,Female,Mbagathi Hospital,No,severe,Yes
+161,12/26/2022,12/29/2022,Alive,6,Male,Mama Lucy Kibaki Hospital,No,severe,Yes
+162,12/28/2022,12/30/2022,Alive,28,Male,Mama Lucy Kibaki Hospital,Yes,severe,Yes
+163,2/28/2023,3/1/2023,Alive,52,Male,Mbagathi Hospital,Yes,severe,No
+164,4/1/2023,4/6/2023,Alive,31,Male,Mbagathi Hospital,No,moderate,No
+165,2/28/2023,3/1/2023,Alive,41,Male,Mbagathi Hospital,Yes,severe,No
+166,3/29/2023,4/2/2023,Alive,23,Male,Mbagathi Hospital,No,severe,No
+167,NA,3/5/2023,Alive,35,Male,Mbagathi Hospital,No,severe,No
+168,12/12/2022,12/15/2022,Alive,27,Male,Mama Lucy Kibaki Hospital,No,moderate,Yes
+169,12/19/2022,12/21/2022,Alive,30,Female,Mama Lucy Kibaki Hospital,No,NA,Yes
+170,12/8/2022,12/12/2022,Alive,29,Male,Mama Lucy Kibaki Hospital,No,severe,No
+171,3/30/2023,4/4/2023,Alive,30,Male,Mbagathi Hospital,No,NA,No
+172,12/23/2022,NA,Alive,35,Male,Mama Lucy Kibaki Hospital,Yes,severe,Yes
+173,12/20/2022,12/24/2022,Alive,26,Male,Mama Lucy Kibaki Hospital,Yes,no/mild,Yes
+174,12/23/2022,12/24/2022,Alive,35,Male,Mama Lucy Kibaki Hospital,No,no/mild,Yes
+175,4/8/2023,4/11/2023,Alive,73,Female,Mama Lucy Kibaki Hospital,Yes,moderate,Yes
+176,4/1/2023,4/3/2023,Alive,34,Male,Mbagathi Hospital,Yes,moderate,Yes
+177,4/1/2023,4/3/2023,Alive,37,Male,Mbagathi Hospital,No,no/mild,Yes
+178,4/1/2023,4/4/2023,Alive,21,Female,Mbagathi Hospital,No,no/mild,No
+179,4/28/2023,3/2/2023,Alive,30,Male,Mbagathi Hospital,No,severe,Yes
+180,3/27/2023,3/29/2023,Alive,23,Male,Mbagathi Hospital,Yes,severe,Yes
+181,3/29/2023,3/30/2023,Alive,24,Male,Mbagathi Hospital,No,severe,Yes
+182,4/1/2023,4/3/2023,Alive,23,Male,Mbagathi Hospital,No,moderate,Yes
+183,3/27/2023,3/30/2023,Alive,6,Female,Mbagathi Hospital,No,severe,Yes
+184,3/28/2023,3/31/2023,Alive,22,Male,Mbagathi Hospital,No,no/mild,Yes
+185,2/25/2023,3/1/2023,Alive,37,Male,Mbagathi Hospital,Yes,severe,Yes
+186,3/27/2023,3/28/2023,Alive,19,Female,Mbagathi Hospital,No,severe,Yes
+187,2/28/2023,3/2/2023,Alive,27,Male,Mbagathi Hospital,Yes,no/mild,No
+188,2/27/2023,3/3/2023,Alive,1,Male,Mbagathi Hospital,No,severe,Yes
+189,2/28/2023,3/3/2023,Alive,25,Female,Mbagathi Hospital,No,severe,No
+190,3/30/2023,4/3/2023,Alive,30,Male,Mbagathi Hospital,No,severe,No
+191,2/13/2023,NA,Alive,37,Male,Mama Lucy Kibaki Hospital,Yes,severe,Yes
+192,12/19/2022,12/21/2022,Alive,26,Male,Mama Lucy Kibaki Hospital,No,moderate,No
+193,11/22/2022,12/25/2022,Alive,6,Female,Mama Lucy Kibaki Hospital,Yes,NA,No
+194,2/27/2023,3/1/2023,Alive,26,Male,Mbagathi Hospital,No,moderate,Yes
+195,4/4/2023,4/6/2023,Alive,50,Male,Mama Lucy Kibaki Hospital,No,no/mild,No
+196,4/3/2023,4/4/2023,Alive,58,Female,Mama Lucy Kibaki Hospital,No,no/mild,Yes
+197,2/3/2023,2/8/2023,Alive,21,Male,Mbagathi Hospital,No,moderate,No
+198,2/28/2023,3/1/2023,Alive,25,Male,Mbagathi Hospital,Yes,moderate,No
+199,4/1/2023,4/3/2023,Alive,21,Female,Mbagathi Hospital,No,no/mild,No
+200,3/6/2023,3/7/2023,Alive,20,Male,Mbagathi Hospital,Yes,no/mild,No
+201,2/2/2023,2/6/2023,Alive,54,Female,Mbagathi Hospital,No,NA,No
+202,3/30/2023,3/31/2023,Alive,22,Male,Mbagathi Hospital,No,moderate,Yes
+203,8/11/2023,8/15/2023,Alive,28,Male,Mama Lucy Kibaki Hospital,Yes,moderate,Yes
+204,4/1/2023,4/2/2023,Alive,22,Male,Mbagathi Hospital,No,moderate,No
+205,12/9/2022,4/8/2022,Alive,49,Female,Mama Lucy Kibaki Hospital,No,severe,Yes
+206,4/22/2023,4/26/2023,Alive,30,Female,Mama Lucy Kibaki Hospital,No,severe,Yes
+207,3/31/2023,4/3/2023,Alive,52,Male,Mama Lucy Kibaki Hospital,Yes,severe,Yes
+208,8/27/2023,8/28/2023,Alive,29,Male,Mama Lucy Kibaki Hospital,No,no/mild,No
+209,12/25/2022,12/27/2022,Alive,27,Male,Mama Lucy Kibaki Hospital,No,moderate,Yes
+210,3/31/2023,4/3/2023,Alive,32,Male,Mama Lucy Kibaki Hospital,Yes,moderate,Yes
+211,12/15/2022,NA,Alive,16,Female,Mama Lucy Kibaki Hospital,Yes,severe,No
+212,4/26/2023,3/30/2023,Alive,18,Female,Mama Lucy Kibaki Hospital,Yes,severe,Yes
+213,3/29/2023,4/1/2023,Alive,44,Male,Mama Lucy Kibaki Hospital,No,moderate,Yes
+214,3/24/2023,2/25/2023,Alive,14,Male,Mama Lucy Kibaki Hospital,No,moderate,Yes
+215,3/16/2023,3/17/2023,Alive,24,Male,Mama Lucy Kibaki Hospital,No,moderate,No
+216,3/15/2023,4/19/2023,Alive,63,Male,Mama Lucy Kibaki Hospital,No,moderate,Yes
+217,1/26/2023,1/30/2023,Alive,30,Female,Mama Lucy Kibaki Hospital,No,no/mild,No
+218,4/3/2023,4/5/2023,Alive,51,Male,Mama Lucy Kibaki Hospital,Yes,severe,Yes
+219,3/31/2023,4/3/2022,Alive,28,Male,Mama Lucy Kibaki Hospital,Yes,severe,Yes
+220,4/24/2023,2/26/2023,Alive,35,Female,Mama Lucy Kibaki Hospital,Yes,severe,Yes
+221,2/24/2023,3/1/2023,Alive,30,Male,Mama Lucy Kibaki Hospital,Yes,moderate,Yes
+222,4/5/2023,4/8/2023,Alive,21,Male,Mama Lucy Kibaki Hospital,No,moderate,Yes
+223,3/31/2023,4/4/2023,Alive,52,Female,Mama Lucy Kibaki Hospital,No,severe,No
+224,1/27/2023,1/31/2023,Alive,28,Male,Mama Lucy Kibaki Hospital,Yes,severe,No
+225,4/2/2023,4/3/2023,Alive,38,Female,Mama Lucy Kibaki Hospital,No,severe,No
+226,4/5/2023,4/8/2023,Alive,NA,Male,Mama Lucy Kibaki Hospital,Yes,severe,Yes
